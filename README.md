@@ -1,7 +1,5 @@
 # Ecommerce-Sales-Analysis-Power-BI
 
-# 🛒 E-commerce Sales Analysis Dashboard (Power BI)
-
 ## 📌 Overview
 
 This project is a **Power BI E-commerce Sales Analysis Dashboard** created to analyze sales performance, customer behavior, and product trends. It provides interactive visuals and key KPIs to support data-driven decision-making.
