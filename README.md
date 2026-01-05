@@ -26,11 +26,3 @@ This project is a **Power BI E-commerce Sales Analysis Dashboard** created to an
 * Time-based trend analysis (monthly/yearly)
 * Interactive filters for easy exploration
 
-## 📂 Data Information
-
-* Dataset used for practice and analysis
-* Contains sales, customer, product, and order details
-* Full raw data not uploaded due to GitHub size limits
-
-
-If you like this project, don’t forget to ⭐ the repository.
